@@ -1,0 +1,6 @@
+*.svg
+*.png
+*.bak
+*.probe
+*bak
+//*.kicad_pcb-bak
